@@ -1,4 +1,4 @@
-
+Quick note: This does build and work just fine, if you have problems building get good. Fr tho make sure your Compatibility Matrix is in [check](https://docs.gradle.org/current/userguide/compatibility.html).
 <p align="center">
 <img src="https://meteorclient.com/icon.png" alt="meteor-client-logo" width="15%"/>
 </p>
