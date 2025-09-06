@@ -16,6 +16,8 @@ import java.util.Random;
 
 import static meteordevelopment.meteorclient.MeteorClient.mc;
 
+// made by 0113
+
 public class SoundSpammer extends Module {
     private final SettingGroup sgGeneral = settings.getDefaultGroup();
 

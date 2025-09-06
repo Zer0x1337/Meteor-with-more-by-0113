@@ -6,6 +6,8 @@ import meteordevelopment.meteorclient.settings.SettingGroup;
 import meteordevelopment.meteorclient.systems.modules.Categories;
 import meteordevelopment.meteorclient.systems.modules.Module;
 
+// made by 0113
+
 public class GiantTinyPlayer extends Module {
     private final SettingGroup sgGeneral = settings.getDefaultGroup();
 

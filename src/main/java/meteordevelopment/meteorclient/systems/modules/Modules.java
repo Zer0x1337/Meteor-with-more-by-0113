@@ -38,6 +38,7 @@ import meteordevelopment.meteorclient.systems.modules.fun.RainbowArmor;
 import meteordevelopment.meteorclient.systems.modules.fun.GiantTinyPlayer;
 import meteordevelopment.meteorclient.systems.modules.fun.ParticleAura;
 import meteordevelopment.meteorclient.systems.modules.fun.SoundSpammer;
+import meteordevelopment.meteorclient.systems.modules.fun.EnderPearlCannon;
 import meteordevelopment.meteorclient.systems.modules.fun.FakeChatMessage;
 import meteordevelopment.meteorclient.utils.Utils;
 import meteordevelopment.meteorclient.utils.misc.Keybind;
@@ -583,6 +584,7 @@ public class Modules extends System<Modules> {
         add(new SoundBlocker());
         add(new Spam());
         add(new Swarm());
+        add(new CarpetDupe());
     }
 
     private void initFun() {
@@ -591,6 +593,7 @@ public class Modules extends System<Modules> {
         add(new GiantTinyPlayer());
         add(new ParticleAura());
         add(new SoundSpammer());
+        add(new EnderPearlCannon());
         add(new FakeChatMessage());
     }
 }

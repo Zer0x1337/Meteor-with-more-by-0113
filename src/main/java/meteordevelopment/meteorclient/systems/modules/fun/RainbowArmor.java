@@ -4,6 +4,8 @@ import meteordevelopment.meteorclient.systems.modules.Categories;
 import meteordevelopment.meteorclient.systems.modules.Module;
 import meteordevelopment.meteorclient.utils.render.color.Color;
 
+// made by 0113
+
 public class RainbowArmor extends Module {
     public RainbowArmor() {
         super(Categories.Fun, "rainbow-armor", "Makes your armor cycle through rainbow colors.");
